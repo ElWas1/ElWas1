@@ -26,14 +26,13 @@ I love programming and everything that has to do with technology.
 <img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <br />
 
-#
-
 ## 🌎 Languages
 
 - Spanish (native)
 - English (upper intermediate level)
 
 #
+## 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElWas1&show_icons=true&theme=transparent)
 
