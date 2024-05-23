@@ -31,7 +31,6 @@ I love programming and everything that has to do with technology.
 - Spanish (native)
 - English (upper intermediate level)
 
-#
 ## 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElWas1&show_icons=true&theme=transparent)
